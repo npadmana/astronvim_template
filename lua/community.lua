@@ -9,5 +9,6 @@ return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.julia" },
+  { import = "astrocommunity.completion.copilot-lua-cmp" },
   -- import/override with your plugins folder
 }
